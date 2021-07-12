@@ -35,3 +35,12 @@ p {
     color: grey;
     font-style: italic;
 }
+
+.download_pdf {
+    box-shadow: 0px 4px 0px #ad83a8;
+}
+
+.download_pdf:active {
+    box-shadow: 0 0 #ba8cb5;
+    background-color: #ba8cb5;
+}
